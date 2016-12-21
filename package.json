@@ -2,5 +2,7 @@
   "name": "Chapp",
   "version": "0.0.0",
   "description": "just trying to learn",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.10.2"
+  }
 }
